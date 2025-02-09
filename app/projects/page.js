@@ -112,7 +112,7 @@ export default function Projects() {
             </a>
             <a
               className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-              href="www.linkedin.com/in/grace-le-a8a146221"
+              href="https://www.linkedin.com/in/grace-le-a8a146221"
               target="_blank"
               rel="noopener noreferrer"
             >
