@@ -10,25 +10,23 @@ export default function Home() {
           <a
             className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
             href="/about"
-            target="_blank"
             rel="noopener noreferrer"
           >
             <Image
-              src="/milk.png"
-              alt="Vercel logomark"
+              src="/mmb1.png"
+              alt="White bear holding a heart"
               width={20}
               height={20}
             />
-            About Me
+            About
           </a>
           <a
             className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
             href="/projects"
-            target="_blank"
             rel="noopener noreferrer"
           >
             <Image
-              src="/mocha.png"
+              src="/mmb2.png"
               alt="Brown bear reading a book"
               width={20}
               height={20}
@@ -37,13 +35,12 @@ export default function Home() {
           </a>
           <a
             className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="/projects"
-            target="_blank"
+            href="/contact"
             rel="noopener noreferrer"
           >
             <Image
-              src="/mocha.png"
-              alt="Brown bear reading a book"
+              src="/mmb3.png"
+              alt="White bear wearing a brown suit"
               width={20}
               height={20}
             />
@@ -60,7 +57,7 @@ export default function Home() {
         >
           <Image
             aria-hidden
-            src="/github-mark.svg"
+            src="/github.svg"
             alt="GitHub icon"
             width={16}
             height={16}
@@ -89,7 +86,7 @@ export default function Home() {
           <Image
             aria-hidden
             src="/linkedin.svg"
-            alt="Globe icon"
+            alt="LinkedIn icon"
             width={16}
             height={16}
           />
