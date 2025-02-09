@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function About() {
     return (
-        <div className="bg-gray-100 text-black grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]" style={{backgroundImage: "url('/background.jpg')", backgroundSize: "cover"}} >
+        <div className="bg-gray-100 text-black grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] bg-cover bg-center bg-no-repeat md:bg-fixed" style={{backgroundImage: "url('/background.jpg')", backgroundSize: "cover"}} >
             <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
             <h1 className="text-4xl font-bold text-center sm:text-left">About Me</h1>
             <p className="text-xl text-center sm:text-left">Hi! I'm Grace Le, a second-year computer science student with a concentration in Artificial Intelligence and Machine Learning at Carleton University! I am currently seeking a co-op position beginning May 2025 for 4/8 months, interested in software engineering, game development, and machine learning. I made this portfolio because I wasn't happy with my previous one, so I decided to learn Next.js to create a portfolio I'm proud of. This portfolio is currently in its early stages, and I am so excited to expand on this, creating a dynamic and fluid page that reflects who I am as a person!</p>
