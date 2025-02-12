@@ -18,7 +18,7 @@ export default function About() {
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" className="h-16"/>
           </div>
           <h1 className="text-4xl font-bold text-center sm:text-left">Personal Interests</h1>
-          <p className="text-xl text-center sm:text-left">When I'm not coding, I enjoy doing various things like playing games with friends, reading a book, listening to music, and collecting trading cards. Some of my favourite things at the moment are:</p>
+          <p className="text-xl text-center sm:text-left">Aside from coding, I have a lot of hobbies and interests that make life more interesting! I enjoy cooking (and trying new foods), casually reading, listening to music, playing games, watching TV shows and movies, and staying active! I could talk about this for ages, but I'll drop a few of my favourite things (at the moment) so you can get to know me a little better!</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
               <iframe style={{ borderRadius: "12px" }} src="https://open.spotify.com/embed/track/04mlpyRplis2yvf18EwaeN?utm_source=generator" width="100%" height="100" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
           </div>
