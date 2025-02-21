@@ -10,8 +10,8 @@ export default function Projects() {
             <div className="bg-white shadow-lg rounded-lg p-4">
                 <img src="/2D-Game-Demonstration.gif" alt="Project Screenshot" className="w-full h-48 object-cover rounded-t-lg" />
                 <h3 className="text-2xl font-bold mt-4">2D Top-Down Pixel Game in Unity</h3>
-                <p className="text-gray-700 mt-2">Status: WIP</p>
-                <p className="text-gray-700 mt-2">This is a simple 2D game that is currently in its (very) early stages. I'm currently working on this, and I'm having such a blast learning how to develop games. I am expecting to finish it February 14 and will publish a live demo of it!</p>
+                <p className="text-gray-700 mt-2">Status: Ready for Deployment</p>
+                <p className="text-gray-700 mt-2">This is a 2D game that I created in two weeks with a Valentine's Day theme. It uses simple game mechanics like character movement, camera following, and interactions. The game's main mechanic is a letter delivery system and score that is calculated, determining whether the user wins or loses. I am going to do some last bug fixes before deploying it on itch.io!</p>
                 <p className="text-gray-700 mt-2">Languages: C#</p>
                 <p className="text-gray-700 mt-2">Technologies: Unity</p>
                 <div className="mt-4 flex gap-4">
